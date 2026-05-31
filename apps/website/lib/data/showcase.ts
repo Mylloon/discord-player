@@ -37,6 +37,13 @@ export const ShowcaseResource: IShowcase = {
   bots: PromotedList.bots.concat(
     [
       {
+        name: 'Vivace Music',
+        description:
+          "Discord Music Bot with custom search channel in Spanish. Built with discord.js v14 and Discord-Player V7.2.0",
+        version: 'v7.2.0',
+        url: 'https://github.com/DxriaaaN/Vivace-Music-Discord-Music-Bot.',
+      },
+      {
         name: 'Kunang-Kunang',
         description:
           'Discord music bot with TikTok live integration, built with discord.js v14 and discord-player v7.1.x',
